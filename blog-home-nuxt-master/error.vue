@@ -66,6 +66,7 @@
       height: 40vh;
     }
     .b-text {
+
     }
   }
 </style>
