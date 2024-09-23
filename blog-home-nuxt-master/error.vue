@@ -7,7 +7,6 @@
     error: {
       type: Object,
       default: () => ({}),
-
     },
   })
   if (props.error.statusCode) {
